@@ -27,4 +27,4 @@ This Monster sizes changes whenever the page is reloaded again.
 
 # Monster Animation
 
-Check out the monster animation live [here](https://somyashri7.github.io/Weird-Monster/).
+Check out the monster animation live [here](https://mohitpatel2170.github.io/Weird-Monster-creation/).

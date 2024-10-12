@@ -1,0 +1,18 @@
+/* Style for the canvas element */
+canvas {
+  background-color: #f0f0f0; /* Light gray background for better visibility */
+  border: 2px solid #333; /* Dark border for canvas */
+  display: block; /* Ensures the canvas is a block element */
+  margin: 0 auto; /* Center the canvas horizontally */
+}
+
+/* Style for the container element (if any) */
+#creature-container {
+  text-align: center; /* Center content within container */
+  padding: 20px; /* Add some padding around the container */
+}
+
+/* Optional: Style for additional elements */
+#controls {
+  margin-top: 20px; /* Space between canvas and controls */
+}

@@ -23,6 +23,8 @@ Mouse and Keyboard Input Management:
 
 The Input object tracks keyboard and mouse state, storing information like key presses and mouse button states. Event listeners update this object, which is used within movement updates for interaction.
 
+This Monster sizes changes whenever the page is reloaded again.
+
 # Monster Animation
 
 Check out the monster animation live [here](https://somyashri7.github.io/Weird-Monster/).
